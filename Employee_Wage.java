@@ -8,7 +8,7 @@ public class Employee_Wage {
 	public static int wage_Per_Hour = 20;
 	public static int full_Day_Hour = 8;
 	public static int part_Time_Hour = 8;
-	public static final int isFullTime = 2;
+	public static final int isFullTime = 0;
 	public static final int isPartTime = 1;
 
 	// employee attendance check
